@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "ladzi031",
+      "name": "ladzani",
+      "password": "Test@1234",
+      "email": "charlie@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "admin",
+      "name": "Admin User",
+      "password": "Test@1234",
+      "email": "James@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isActive": true
+    }
+  ]
+}
